@@ -10,5 +10,5 @@ Standardization helps in solving the problem of dfferent feautures being of diff
 
 Machine Learning libraray SK-LEARN helps us to perform Standardization by importing the same.
 
-from sklearn.preprocessing import StandardScaler
+## from sklearn.preprocessing import StandardScaler
 
